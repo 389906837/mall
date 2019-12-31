@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-xiaoma" />
+        <module name="spring-cloud-lesson8" />
+        <module name="springcloud-mybatisDemo" />
+        <module name="springcloud-webDemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-xiaoma" target="1.8" />
+      <module name="spring-cloud-euraka-server" target="1.8" />
+      <module name="spring-cloud-eureka-client" target="1.8" />
+      <module name="spring-cloud-lesson8" target="1.8" />
+      <module name="spring-cloud-logistics-ribbon" target="1.8" />
+      <module name="spring-cloud-user-service" target="1.8" />
+      <module name="springcloud-eureka" target="1.8" />
+      <module name="springcloud-mybatisDemo" target="1.8" />
+      <module name="springcloud-webDemo" target="1.8" />
+      <module name="springclouddemo" target="1.5" />
+      <module name="wxpay-sdk" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

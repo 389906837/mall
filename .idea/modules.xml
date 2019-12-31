@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springboot-xiaoma/spring-boot-xiaoma/spring-boot-xiaoma.iml" filepath="$PROJECT_DIR$/../springboot-xiaoma/spring-boot-xiaoma/spring-boot-xiaoma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-xiaoma/spring-cloud-lesson8/spring-cloud-lesson8.iml" filepath="$PROJECT_DIR$/../springboot-xiaoma/spring-cloud-lesson8/spring-cloud-lesson8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-xiaoma/springcloud-mybatisDemo/springcloud-mybatisDemo.iml" filepath="$PROJECT_DIR$/../springboot-xiaoma/springcloud-mybatisDemo/springcloud-mybatisDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-xiaoma/springcloud-webDemo/springcloud-webDemo.iml" filepath="$PROJECT_DIR$/../springboot-xiaoma/springcloud-webDemo/springcloud-webDemo.iml" />
+    </modules>
+  </component>
+</project>

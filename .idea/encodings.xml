@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Desktop/java_sdk_v3.0.9" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot-xiaoma/spring-boot-xiaoma" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot-xiaoma/spring-cloud-lesson8" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot-xiaoma/springcloud-mybatisDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot-xiaoma/springcloud-webDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springcloud/spring-cloud-euraka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springcloud/spring-cloud-eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springcloud/spring-cloud-logistics-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springcloud/spring-cloud-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springcloud/springcloud-eureka" charset="UTF-8" />
+  </component>
+</project>
